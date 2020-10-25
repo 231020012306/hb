@@ -55,4 +55,4 @@ while True:
     if direction in allExits:
         loc = allExits[direction]
     else:
-        print("you cannot go in that direction!!!!")
+        print("you cannot go in that direction and i am sorry for thatttt")
